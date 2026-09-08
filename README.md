@@ -6,7 +6,7 @@ A collection of Python projects I'm building while learning — starting with fr
 
 | Project | Description | Concepts |
 |---|---|---|
-| [user-config-manager](./user-config-manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
+| [user-config-manager](./user_configuration_manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
 
 More projects coming as I build them — data cleaning scripts, exploratory data analysis, and eventually small machine learning models.
 

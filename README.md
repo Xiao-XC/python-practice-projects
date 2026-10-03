@@ -4,11 +4,17 @@ A collection of Python projects I'm building while learning — starting with fr
 
 ## Projects
 
+### Labs (freeCodeCamp)
+
 | Project | Description | Concepts |
 |---|---|---|
-| [user-config-manager](./User_Configuration_Manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
+| [user-config-manager](./labs/User_Configuration_Manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
+| [isbn-validator](./labs/ISBN_Validator) | Debugged a broken ISBN-10/ISBN-13 validator: fixed type, indexing, exception, and indentation errors | debugging, string slicing, try/except, list comprehensions |
+| [planet-class](./labs/Planet_Class) | A `Planet` class with input validation, an `orbit()` method, and a custom string representation | classes, `__init__`, `__str__`, `raise`, `isinstance` |
 
-More projects coming as I build them — data cleaning scripts, exploratory data analysis, and eventually small machine learning models.
+### Independent Projects
+
+_Coming soon (these will live in [`projects/`](./projects))._ Planned: data cleaning scripts, exploratory data analysis, and eventually small machine learning models.
 
 ## About
 

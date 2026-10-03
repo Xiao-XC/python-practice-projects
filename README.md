@@ -8,9 +8,9 @@ A collection of Python projects I'm building while learning — starting with fr
 
 | Project | Description | Concepts |
 |---|---|---|
-| [user-config-manager](./labs/User_Configuration_Manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
-| [isbn-validator](./labs/ISBN_Validator) | Debugged a broken ISBN-10/ISBN-13 validator: fixed type, indexing, exception, and indentation errors | debugging, string slicing, try/except, list comprehensions |
-| [planet-class](./labs/Planet_Class) | A `Planet` class with input validation, an `orbit()` method, and a custom string representation | classes, `__init__`, `__str__`, `raise`, `isinstance` |
+| [User-Configuration-Manager](./labs/User-Configuration-Manager) | CRUD-style functions for managing user settings stored in a dictionary | dictionaries, tuples, f-strings, control flow |
+| [ISBN-Validator](./labs/ISBN-Validator) | Debugged a broken ISBN-10/ISBN-13 validator: fixed type, indexing, exception, and indentation errors | debugging, string slicing, try/except, list comprehensions |
+| [Planet-Class](./labs/Planet-Class) | A `Planet` class with input validation, an `orbit()` method, and a custom string representation | classes, `__init__`, `__str__`, `raise`, `isinstance` |
 
 ### Independent Projects
 
